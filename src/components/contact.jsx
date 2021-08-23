@@ -103,17 +103,11 @@ class Contact extends React.Component {
                       </div>
                       <div className="more-info">
                         <p className="lead">
-                          Whether you want to get in touch, talk about a project
-                          collaboration, or just say hi, I'd love to hear from
-                          you.
+                          Feel Free to contact me!
                           <br />
                           Simply fill the from and send me an email.
                         </p>
-                        {/* <!-- <ul class="list-ico">
-                                <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                                <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                                <li><span class="ion-email"></span> contact@example.com</li>
-                                </ul> --> */}
+                        {}
                       </div>
                       <div className="socials">
                         <ul>
@@ -130,18 +124,19 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/William7786"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
                                 <i className="ion-social-github"></i>
+                                
                               </span>
                             </a>
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/williamf7786/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
