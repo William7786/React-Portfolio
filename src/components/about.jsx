@@ -1,9 +1,18 @@
 import React from "react";
-
+import me from "../img/myImage.jpg";
 
 class About extends React.Component {
+  
+  // <div className="work-box">
+  //               <a href={me} data-lightbox="gallery-vmarine">
+  //                 <div className="work-img">
+  //                   <img src={me} alt="" className="img-fluid" />
+  //                 </div>
+  //                 </a>
+  //                 </div> 
   constructor() {
     super();
+   
     this.state = {
       skills: [
         { id: "HTML5_skill", content: "HTML5", porcentage: "80%", value: "80" },

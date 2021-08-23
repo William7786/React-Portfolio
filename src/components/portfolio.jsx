@@ -48,6 +48,19 @@ class Portfolio extends React.Component {
                     </div>
                   </div>
                 </a>
+                
+                <li  id = "github">
+                            <a
+                              href="https://olympics-game.herokuapp.com/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-social-github"></i>
+                                
+                              </span>
+                            </a>
+                          </li>
                 <a
                   href={stock1}
                   data-lightbox="gallery-vmarine"
@@ -97,7 +110,20 @@ class Portfolio extends React.Component {
                     </div>
                   </div>
                   
-                </a><button  onClick  href = "https://william7786.github.io/Daily-Planner/" >Click Here to veiw!</button>
+                </a>
+
+                <li  id = "github">
+                            <a
+                              href="https://william7786.github.io/Daily-Planner/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-social-github"></i>
+                                
+                              </span>
+                            </a>
+                          </li>
                 <a
                   href={stock1}
                   data-lightbox="gallery-aguadeluz"
@@ -147,6 +173,19 @@ class Portfolio extends React.Component {
                     </div>
                   </div>
                 </a>
+                
+                <li  id = "github">
+                            <a
+                              href="https://william7786.github.io/Password-Generator/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-social-github"></i>
+                                
+                              </span>
+                            </a>
+                          </li>
                 <a
                   href={stock1}
                   data-lightbox="gallery-todo"
@@ -194,6 +233,19 @@ class Portfolio extends React.Component {
                     </div>
                   </div>
                 </a>
+                
+                <li  id = "github">
+                            <a
+                              href="https://slown137.github.io/Music-Search-Project/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-social-github"></i>
+                                
+                              </span>
+                            </a>
+                          </li>
                 <a
                   href={stock1}
                   data-lightbox="gallery-smth"
