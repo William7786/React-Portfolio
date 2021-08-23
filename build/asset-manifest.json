@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/William7786/React-Portfolio/static/css/main.b06c5fc7.chunk.css",
+    "main.js": "/William7786/React-Portfolio/static/js/main.b2d1e090.chunk.js",
+    "main.js.map": "/William7786/React-Portfolio/static/js/main.b2d1e090.chunk.js.map",
+    "runtime-main.js": "/William7786/React-Portfolio/static/js/runtime-main.de8c2de3.js",
+    "runtime-main.js.map": "/William7786/React-Portfolio/static/js/runtime-main.de8c2de3.js.map",
+    "static/css/2.242f24fe.chunk.css": "/William7786/React-Portfolio/static/css/2.242f24fe.chunk.css",
+    "static/js/2.3e78d9e7.chunk.js": "/William7786/React-Portfolio/static/js/2.3e78d9e7.chunk.js",
+    "static/js/2.3e78d9e7.chunk.js.map": "/William7786/React-Portfolio/static/js/2.3e78d9e7.chunk.js.map",
+    "index.html": "/William7786/React-Portfolio/index.html",
+    "precache-manifest.c338c6b631ede1aa21f9cb1eb1ba6d3e.js": "/William7786/React-Portfolio/precache-manifest.c338c6b631ede1aa21f9cb1eb1ba6d3e.js",
+    "service-worker.js": "/William7786/React-Portfolio/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/William7786/React-Portfolio/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.b06c5fc7.chunk.css.map": "/William7786/React-Portfolio/static/css/main.b06c5fc7.chunk.css.map",
+    "static/js/2.3e78d9e7.chunk.js.LICENSE": "/William7786/React-Portfolio/static/js/2.3e78d9e7.chunk.js.LICENSE",
+    "static/media/Olympic-Games-.png": "/William7786/React-Portfolio/static/media/Olympic-Games-.efe74239.png",
+    "static/media/Password-Generator.png": "/William7786/React-Portfolio/static/media/Password-Generator.db65ed94.png",
+    "static/media/Work-Day-Scheduler.png": "/William7786/React-Portfolio/static/media/Work-Day-Scheduler.bc1308cb.png",
+    "static/media/earth.jpg": "/William7786/React-Portfolio/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/William7786/React-Portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.png": "/William7786/React-Portfolio/static/media/image1.3fd0bc97.png",
+    "static/media/ionicons.css": "/William7786/React-Portfolio/static/media/ionicons.621bd386.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de8c2de3.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.3e78d9e7.chunk.js",
+    "static/css/main.b06c5fc7.chunk.css",
+    "static/js/main.b2d1e090.chunk.js"
+  ]
+}
