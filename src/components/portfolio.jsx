@@ -1,12 +1,11 @@
 import React from "react";
 
 //import stock
-import stock from "../img/image1.jpg";
-import stock1 from "../img/image2.jpg";
-import stock2 from "../img/image3.jpg";
-import stock3 from "../img/image4.jpg";
-import stock4 from "../img/image5.jpg";
-import stock5 from "../img/image6.jpg";
+import stock from "../img/Olympic-Games-.png";
+import stock1 from "../img/image1.png";
+import stock2 from "../img/Work-Day-Scheduler.png";
+import stock3 from "../img/Password-Generator.png";
+
 
 class Portfolio extends React.Component {
   render() {
@@ -71,20 +70,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <a
-                  href={stock4}
-                  data-lightbox="gallery-vmarine"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
-                <a
-                  href={stock5}
-                  data-lightbox="gallery-vmarine"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
+                
               </div>
             </div>
             <div className="col-md-4">
@@ -133,20 +119,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <a
-                  href={stock4}
-                  data-lightbox="gallery-aguadeluz"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
-                <a
-                  href={stock5}
-                  data-lightbox="gallery-aguadeluz"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
+
               </div>
             </div>
             <div className="col-md-4">
@@ -195,20 +168,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <a
-                  href={stock4}
-                  data-lightbox="gallery-todo"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
-                <a
-                  href={stock5}
-                  data-lightbox="gallery-todo"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
+               
               </div>
             </div>
             <div className="col-md-4">
@@ -256,20 +216,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <a
-                  href={stock4}
-                  data-lightbox="gallery-medlingos"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
-                <a
-                  href={stock5}
-                  data-lightbox="gallery-medlingos"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
+               
               </div>
             </div>
             <div className="col-md-4">
@@ -315,20 +262,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <a
-                  href={stock4}
-                  data-lightbox="gallery-smth"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
-                <a
-                  href={stock5}
-                  data-lightbox="gallery-smth"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
+                
               </div>
             </div>
             <div className="col-md-4">
@@ -376,20 +310,7 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <a
-                  href={stock4}
-                  data-lightbox="gallery-mf"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
-                <a
-                  href={stock5}
-                  data-lightbox="gallery-mf"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
+                
               </div>
             </div>
           </div>
